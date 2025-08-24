@@ -87,3 +87,10 @@ El programa sigue una secuencia lineal de transiciones:
 
 
 ![Algoritmo Concepto Espacio](https://github.com/Sharito2023s-oss/Laboratorio1/blob/main/Algoritmo-Concepto-Espacio/Planta.png?raw=true)
+
+
+## 👥 Autores
+
+- Carlos Andrés Suárez Torres - Carlos23Andres
+
+- Saira Sharid Sanabria Muñoz - sharito202
